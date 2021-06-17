@@ -1,14 +1,14 @@
 # I'm Guilherme, nice to meet you!!
 
-<h3><i>Take a look on my <a href="https://www.linkedin.com/in/guilhermejacome/">Experience</a>!</i></h3>
+<h3><i>Take a look at my <a href="https://www.linkedin.com/in/guilhermejacome/">Experience</a>!</i></h3>
 
 # About myself
 
-Hello, my name is Guilherme and I'm from Brazil. I'm a computer engineering student at UFPB and have been focusing my studies on Artificial Inteligence,
+Hello, my name is Guilherme and I'm from Brazil. I'm a Computer Engineering student at UFPB and have been focusing my studies on Artificial Intelligence,
 more specifically on Natural language processing.
 
 # Volunteer Experience
-- Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) ( ARtificial Intelligence Applications laboratory).
+- Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
 
 - Member of [Tail](https://github.com/TailUFPB) (Technology and Artificial Intelligence League).
 
@@ -47,7 +47,7 @@ more specifically on Natural language processing.
     <a href="https://tce.pb.gov.br/">TCE PB</a>:
     <ul>
       <li>
-        <b> Goal: Unify all the transparency sites from paraíba, and develop a system that evaluates how clear and accessible the data is.</b> <b>(May 2021 - Present)</b>
+        <b> Goal: Unify all the transparency websites from Paraíba, and develop a system that evaluates how clear and accessible the data is.</b> <b>(May 2021 - Present)</b>
       </li>
     </ul>
   </li>
