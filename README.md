@@ -8,13 +8,13 @@ Hello, my name is Guilherme and I'm from Brazil. I'm a computer engineering stud
 more specifically on Natural language processing.
 
 # Volunteer Experience
--Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) ( ARtificial Intelligence Applications laboratory).
+- Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) ( ARtificial Intelligence Applications laboratory).
 
--Member of [Tail](https://github.com/TailUFPB) (Technology and Artificial Intelligence League).
+- Member of [Tail](https://github.com/TailUFPB) (Technology and Artificial Intelligence League).
 
--Member of [RAS](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) (Robotics and Automation Society).
+- Member of [RAS](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) (Robotics and Automation Society).
 
--Vice president of the [Academic Center of computer engineering at UFPB](https://www.instagram.com/caec.ci.ufpb/).
+- Vice president of the [Academic Center of computer engineering at UFPB](https://www.instagram.com/caec.ci.ufpb/).
 
 # Status
  
@@ -98,6 +98,7 @@ more specifically on Natural language processing.
 
 # Skills
 
+- Team work
 - Machine Learning
 - Natural Language Processing
 - Data science
@@ -109,7 +110,7 @@ more specifically on Natural language processing.
 <a href="https://www.linkedin.com/in/guilhermejacome/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="http://lattes.cnpq.br/9018217125712677"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:guircos1@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/guilhermejc13/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GuilhermeJC13&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
