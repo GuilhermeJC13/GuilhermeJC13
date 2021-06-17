@@ -18,13 +18,13 @@ more specifically on Natural language processing.
 
 # Status
  
- ![trophy](https://github-profile-trophy.vercel.app/?username=GuilhermeJC13&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+ <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=GuilhermeJC13&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
  
  <a href="https://github.com/GuilhermeJC13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJC13&show_icons=true&theme=radical" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJC13&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/GuilhermeJC13/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJC13&layout=compact&theme=radical" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJC13&layout=compact&theme=radical" />
 </a>
 
 ![ViewCount](https://views.whatilearened.today/views/github/GuilhermeJC13/views.svg)  
