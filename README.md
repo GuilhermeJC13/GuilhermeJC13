@@ -1,6 +1,6 @@
 # I'm Guilherme, nice to meet you!!
 
-<h3><i>Take a look at my <a href="https://www.linkedin.com/in/guilhermejacome/">Experience</a>!</i></h3>
+<h3><i>Take a look at my <a href="https://guilhermejc13.github.io/#">Portfolio</a>!</i></h3>
 
 # About myself
 
