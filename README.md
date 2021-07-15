@@ -21,10 +21,10 @@ more specifically on Natural language processing.
  <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=GuilhermeJC13&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
  
  <a href="https://github.com/GuilhermeJC13/github-readme-stats">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJC13&show_icons=true&theme=radical" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJC13&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/GuilhermeJC13/github-readme-stats">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJC13&layout=compact&theme=radical" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJC13&layout=compact&theme=radical&hide=html,css" />
 </a>
 
 ![ViewCount](https://views.whatilearened.today/views/github/GuilhermeJC13/views.svg)  
@@ -60,6 +60,7 @@ more specifically on Natural language processing.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=Cplusplus)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 <br />
 
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
@@ -67,12 +68,6 @@ more specifically on Natural language processing.
 ![Pytorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-<br />
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 <br />
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
@@ -113,4 +108,4 @@ more specifically on Natural language processing.
 <a href="https://www.instagram.com/guilhermejc13/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GuilhermeJC13&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GuilhermeJC13&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&count_private=true)
