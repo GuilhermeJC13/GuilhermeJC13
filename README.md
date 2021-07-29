@@ -24,7 +24,7 @@ more specifically on Natural language processing.
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJC13&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/GuilhermeJC13/github-readme-stats">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJC13&layout=compact&theme=radical&hide=html,css,SCSS,JavaScript" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJC13&layout=compact&theme=radical&hide=html,css,SCSS,JavaScript, Jupyter Notebook" />
 </a>
 
 ![ViewCount](https://views.whatilearened.today/views/github/GuilhermeJC13/views.svg)  
