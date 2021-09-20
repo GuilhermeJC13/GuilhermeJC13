@@ -90,6 +90,7 @@ more specifically on Natural language processing.
 # Licences and Certifications
 
 - [Machine Learning A-Z](https://www.udemy.com/certificate/UC-713b1edc-04df-44e9-9767-425a915524b0/)
+- [Sequence models - Coursera](https://coursera.org/share/5987acbb1903ef91b75bfb89df8cde37)
 
 # Skills
 
