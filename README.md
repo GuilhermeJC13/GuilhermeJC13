@@ -10,7 +10,7 @@ more specifically on Natural language processing.
 # Volunteer Experience
 - Member of [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
 
-- Member of [Tail](https://github.com/TailUFPB) (Technology and Artificial Intelligence League).
+- Director of [Tail](https://github.com/TailUFPB) (Technology and Artificial Intelligence League).
 
 - Member of [RAS](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) (Robotics and Automation Society).
 
