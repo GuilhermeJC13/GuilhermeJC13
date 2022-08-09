@@ -107,6 +107,3 @@ more specifically on Natural language processing.
 <a href="http://lattes.cnpq.br/9018217125712677"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:guircos1@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/guilhermejc13/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GuilhermeJC13&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&count_private=true)
